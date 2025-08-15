@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S.(Minor) in School of Economics and Management, Tsinghua University, 2026(expected)
-* B.S.(Major) in Xinya College & Department of Computer Science and Technology, Tsinghua University, 2026 (expected)
+* B.S. Minor in School of Economics and Management, Tsinghua University, 2026(expected)
+* B.S. Major in Xinya College & Department of Computer Science and Technology, Tsinghua University, 2026 (expected)
 
 Work experience
 ======
