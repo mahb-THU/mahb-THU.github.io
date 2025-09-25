@@ -11,7 +11,6 @@ I'm a forth-year undergraudate student from [Xinya College](https://www.xyc.tsin
 
 ## Education
 
-======
 * B.S. Minor in School of Economics and Management, Tsinghua University, 2026(expected)
 * B.S. Major in Xinya College & Department of Computer Science and Technology, Tsinghua University, 2026 (expected)
 
@@ -41,11 +40,9 @@ I'm a forth-year undergraudate student from [Xinya College](https://www.xyc.tsin
 
 <table>
   <tr>
-    <!-- 左边缩略图 -->
     <td width="280">
       <img src="./figures/simplevla-thumb.png" alt="paper" width="260"/>
     </td>
-    <!-- 右边文字 -->
     <td>
       <h3><a href="https://arxiv.org/abs/XXXX.XXXXX">SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning</a></h3>
       <p>
