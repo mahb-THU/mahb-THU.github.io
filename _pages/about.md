@@ -41,15 +41,12 @@ I'm a forth-year undergraudate student from [Xinya College](https://www.xyc.tsin
 <table>
   <tr>
     <td width="280">
-      <img src="./figures/simplevla-thumb.png" alt="paper" width="260"/>
+      <img src="../images/publications/Redefining the task of Bioactivity Prediction.png" alt="paper" width="260"/>
     </td>
     <td>
-      <h3><a href="https://arxiv.org/abs/XXXX.XXXXX">SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning</a></h3>
+      <h3><a href="https://proceedings.iclr.cc/paper_files/paper/2025/file/dee8f820d86aca28ab0328a9243020f9-Paper-Conference.pdf">Redefining the task of Bioactivity Prediction</a></h3>
       <p>
-        Haozhan Li*, Yuxin Zuo*, Jiale Yu*, Yuhao Zhang*, Zhaohui Yang, Kaiyan Zhang, Xuekai Zhu,  
-        Yuchen Zhang, <strong><u>Tianxing Chen</u></strong>, Ganqu Cui, Dehui Wang, Dingxiang Luo,  
-        Yuchen Fan, Youbang Sun, Jia Zeng, Jiangmiao Pang, Shanghang Zhang, Yu Wang,  
-        Yao Mu, Bowen Zhou<sup>†</sup>, Ning Ding<sup>†</sup>
+        Yanwen Huang, Bowen Gao, Yinjun Jia, <strong><u>Hongbo Ma</u></strong>, Wei-Ying Ma<sup>†</sup>, Ya-Qin Zhang<sup>†</sup>, Yanyan Lan<sup>†</sup> 
       </p>
       <p><em>Under Review</em></p>
       <p>
